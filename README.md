@@ -3,7 +3,7 @@ a Deep Residual Network Example for MXNet on cifar10 dataset
 
 Paper: [Deep Residual Learning for Image Recognition on arxiv.org](http://arxiv.org/abs/1512.03385)
 
-It has been merge to [MXNet](https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol_resnet-28-small.py)
+### It has been merge to [MXNet](https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol_resnet-28-small.py)
 
 ### Notes:
 1. The example has serveral differences to the paper, This example just proves the rule: **The Deeper, The Better**
