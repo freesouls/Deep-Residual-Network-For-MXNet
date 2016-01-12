@@ -1,4 +1,4 @@
-# Deep_Residual_Network_For_MXNet
+# Deep Residual Network For MXNet
 a Deep Residual Network Example for MXNet on cifar10 dataset
 
 Paper: [Deep Residual Learning for Image Recognition on arxiv.org](http://arxiv.org/abs/1512.03385)
