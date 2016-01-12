@@ -27,9 +27,9 @@ in the paper, he train cifar10 for 160 epoch, I set num-epoch to 200 because I w
 since it needs 160 epochs, please be patient. And I train with batch size of 128, and train all the models on 1 GPU
 
 #### Test Accuracy:
-- for 20 layers resnet, accuracy=0.905+
-- for 32 layers resnet, accuracy=0.908+
-- for 56 layers resnet, accuracy=0.915+
+- for 20 layers resnet, accuracy=0.905+, 0.9125 in the paper
+- for 32 layers resnet, accuracy=0.908+, 0.9239 in the paper
+- for 56 layers resnet, accuracy=0.915+, 0.9303 in the paper
 
 Though the numbers are a little bit lower than the paper, but it does obey the rule: 
 > **the deeper, the better**
