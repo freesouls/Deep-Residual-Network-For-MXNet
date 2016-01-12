@@ -1,8 +1,9 @@
 # Deep_Residual_Network_For_MXNet
 a Deep Residual Network Example for MXNet on cifar10 dataset
 
-Hi, I have add a Deep Residual Network example for cifar10
-And has been merge to MXNet, [here](https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol_resnet-28-small.py)
+Paper: [Deep Residual Learning for Image Recognition on arxiv.org](http://arxiv.org/abs/1512.03385)
+
+It has been merge to [MXNet](https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol_resnet-28-small.py)
 
 ### Notes:
 1. The example has serveral differences to the paper, This example just proves the rule: **The Deeper, The Better**
