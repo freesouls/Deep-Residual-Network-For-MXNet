@@ -7,7 +7,7 @@ It has been merge to [MXNet](https://github.com/dmlc/mxnet/blob/master/example/i
 
 ### Notes:
 1. The example has serveral differences to the paper, This example just proves the rule: **The Deeper, The Better**
-2. You are welcome to discuss you point of view, for example, You think the batch_normalization should apply in different places, for the author does not say it very clearly
+2. You are welcomed to discuss you point of view with me, for example, You think the batch_normalization should apply in different places, for the author does not say it very clearly. I hope We could achieve a better performance.
 
 #### Commands & Setups:
 - in example/image-classification/train_model.py 
@@ -47,6 +47,8 @@ Off course, there might be other reasons (for example the true network architect
 - Name: Binbin Xu
 - School: Zhejiang University
 - Major: Computer Science & Technology
+- Lab: State Key Lab of CAD&CG
+- Blog: https://freesouls.github.io
 - Degree: Pursuing a Master degree, expected to be graduate at 2017. March
 
 ##Thanks
