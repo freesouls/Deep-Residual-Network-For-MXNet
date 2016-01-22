@@ -48,7 +48,7 @@ Off course, there might be other reasons (for example the true network architect
 - School: Zhejiang University
 - Major: Computer Science & Technology
 - Lab: State Key Lab of CAD&CG
-- Blog: https://freesouls.github.io
+- Blog: http://freesouls.github.io
 - Degree: Pursuing a Master degree, expected to be graduate at 2017. March
 
 ##Thanks
