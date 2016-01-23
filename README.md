@@ -3,6 +3,11 @@ a Deep Residual Network Example for MXNet on cifar10 dataset
 
 Paper: [Deep Residual Learning for Image Recognition on arxiv.org](http://arxiv.org/abs/1512.03385)
 
+### Chinese Version 
+If you are a Chinese, please goto my [blog](http://freesouls.github.io/2016/01/13/residual-network/)
+
+[我的中文blog](http://freesouls.github.io/2016/01/13/residual-network/)
+
 ### It has been merge to [MXNet](https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol_resnet-28-small.py)
 
 ### Notes:
