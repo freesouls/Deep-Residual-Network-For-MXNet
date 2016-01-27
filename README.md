@@ -8,7 +8,7 @@ If you are a Chinese, please goto my [blog](http://freesouls.github.io/2016/01/1
 
 [我的中文blog](http://freesouls.github.io/2016/01/13/residual-network/)
 
-### It has been merge to [MXNet](https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol_resnet-28-small.py)
+### It has been merged to [MXNet](https://github.com/dmlc/mxnet/blob/master/example/image-classification/symbol_resnet-28-small.py)
 
 ### Notes:
 1. The example has serveral differences to the paper, This example just proves the rule: **The Deeper, The Better**
